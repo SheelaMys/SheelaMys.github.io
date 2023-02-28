@@ -10,4 +10,4 @@ Sheela started her career as a Mainframe - COBOL developer and has worked with w
 
 After having worked as a developer and QA analyst, Sheela is keen to explore the world of technical writing as she has always been interested in writing. Coming from a development background, she has the ability to read and understand code written in any language and that could be an advantage to understand different API's and document them. 
 
-![Picture of Writing](/writing.jpg)
+![Picture of Writing](/images/writing.jpg)
