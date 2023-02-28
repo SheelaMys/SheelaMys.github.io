@@ -29,7 +29,7 @@ minima:
 # order as they should show up.
 #
 header_pages:
-  - index.html
+  - index.md
   - resume.md
   - about.md
 
