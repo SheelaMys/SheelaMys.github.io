@@ -29,6 +29,6 @@ To read the document, <a href="/Chronologue.docx">open the doc</a>.
 
 I have also updated the Overview section of the API reference document. 
 
-To read the document, <a href="/ChoronologueOverview.docx">open the doc</a>.
+To read the document, <a href="/ChronologueOverview.docx">open the doc</a>.
 
-<object style="min-height: 600px;" data="ChoronologueOverview.docx" width="100%" height="100%" type='application/docx'/>
+<object style="min-height: 600px;" data="ChronologueOverview.docx" width="100%" height="100%" type='application/docx'/>
