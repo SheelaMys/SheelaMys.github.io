@@ -20,15 +20,12 @@ What we’ve already done so far:
  - Prototyping user journeys and wireframes
  - Specifying an API to retrieve data
 
-I am part of the volunteer group at the Chronologue project and contributed in documenting the API endpoint 3. The screenshot of the document is attached. 
+I am part of the volunteer group at the Chronologue project and contributed in documenting the API endpoint 3. A snapshot of the work is here: 
 
-To read the document, <a href="/Chronologue.docx">open the doc</a>.
-
-<object style="min-height: 600px;" data="Chronologue.docx" width="100%" height="100%" type='application/docx'/>
+![Picture of Writing](/images/Chronologue.jpg)
 
 
 I have also updated the Overview section of the API reference document. 
+A sneek peak to the work is here:
 
-To read the document, <a href="/ChronologueOverview.docx">open the doc</a>.
-
-<object style="min-height: 600px;" data="ChronologueOverview.docx" width="100%" height="100%" type='application/docx'/>
+![Picture of Writing](/images/ChronologueOverview.jpg)

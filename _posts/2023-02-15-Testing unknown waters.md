@@ -18,7 +18,7 @@ author:
 
 It is never too late to start developing a new hobby, a new skill, meet new people, form new opinions, build new experiences. What matters is, have we given enough time to introspect and are we ready to give our 100% in what we are setting out to. Are we ready to indulge ourselves in the new venture that is inviting us to take the plunge? If the answer is a resounding YES, we can conquer it all.
 
-### And be successful!
+## And be successful!
 
 Once we zero in on what makes us happy at that point in life, we start working towards it.
 I have spent considerable amount of my time as a developer and when I hit a saturation point, I took the tough decision of taking a break, going on a vacation, coming back and pondering over what I would like to do. Writing interests me and sparks joy in me. Being a technical person, I thought how about combining my technical expertise and writing, which is when I started my journey in the field of technical writing. I am putting in my effort to equip myself with the best tools and technologies to become a successful API technical writer. I am looking for that opportunity where I can put to use all that I have learnt and be what I aspire to be.
