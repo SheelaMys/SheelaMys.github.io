@@ -22,10 +22,10 @@ What we’ve already done so far:
 
 I am part of the volunteer group at the Chronologue project and contributed in documenting the API endpoint 3. A snapshot of the work is here: 
 
-![Picture of Writing](/images/Chronologue.jpg)
+![Picture of ChronologueWriting](/images/Chronologue.jpg)
 
 
 I have also updated the Overview section of the API reference document. 
 A sneek peak to the work is here:
 
-![Picture of Writing](/images/ChronologueOverview.jpg)
+![Picture of ChronologueOverviewWriting](/images/ChronologueOverview.jpg)
