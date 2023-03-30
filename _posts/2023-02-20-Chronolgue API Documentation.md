@@ -28,4 +28,4 @@ I am part of the volunteer group at the Chronologue project and contributed in d
 I have also updated the Overview section of the API reference document. 
 A sneek peak to the work is here:
 
-![Picture of ChronologueOverviewWriting](/images/ChronologueOverview.jpg)
+![Picture of ChronologueOverview](/images/ChronologueOverview.jpg)
