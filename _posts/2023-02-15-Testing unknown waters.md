@@ -21,7 +21,7 @@ It is never too late to start developing a new hobby, a new skill, meet new peop
 ## And be successful!
 
 Once we zero in on what makes us happy at that point in life, we start working towards it.
-I have spent considerable amount of my time as a developer and when I hit a saturation point, I took the tough decision of taking a break, going on a vacation, coming back and pondering over what I would like to do. Writing interests me and sparks joy in me. Being a technical person, I thought how about combining my technical expertise and writing, which is when I started my journey in the field of technical writing. I am putting in my effort to equip myself with the best tools and technologies to become a successful API technical writer. I am looking for that opportunity where I can put to use all that I have learnt and be what I aspire to be.
+I have spent considerable amount of my time as a developer and when I hit a saturation point, I took the tough decision of taking a break, going on a vacation, coming back and pondering over what I would like to do. Being a technical person, I thought how about combining my technical expertise and development skills, which is when I started my journey in the field of software testing. I am putting in my effort to equip myself with the best tools and technologies to become a successful Automation Analyst. I am looking for that opportunity where I can put to use all that I have learnt and be what I aspire to be.
 
 > "When we strive to become better than we are, everything around us becomes better too."
 
