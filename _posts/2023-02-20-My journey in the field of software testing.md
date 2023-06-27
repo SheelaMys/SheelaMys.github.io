@@ -8,7 +8,7 @@ I am a Software tester with experience in various forms of testing such as funct
 
 I am working on Python currently. My various projects on Python could be found at:
 
-https://github.com/sheelamysore 
+[https://github.com/sheelamysore] (https://github.com/sheelamysore)
 
 For more details, please review my resume here: <a href="/SHEELA-MS.pdf">open the PDF</a>.
 
