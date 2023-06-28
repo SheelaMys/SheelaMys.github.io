@@ -4,7 +4,7 @@ title: "My journey in the field of software testing"
 categories: misc
 ---
 
-I am a Software tester with experience in various forms of testing such as functional testing, integration testing, system testing, regression testing. I am familiar with a host of testing tools and techniques. 
+I am a Software tester with experience in various forms of testing such as functional testing, integration testing, system testing, regression testing, automation testing. I am familiar with a host of testing tools and techniques. 
 
 I am working on Python currently. My various projects on Python could be found at:
 
